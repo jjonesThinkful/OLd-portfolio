@@ -25,35 +25,35 @@ header.masthead {
   padding-top: 6rem;
   padding-bottom: 3rem;
   text-align: center;
-  background-color: #1d1ae0;
+  background-color: #eadfc9;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
- font-family: 'Shadows Into Light', cursive;
+  font-family: 'Anton', sans-serif;
   font-weight: 450;
   font-size: 1.5rem;
   line-height: 1.2;
-  color: #46dc78;
+  color: #dc7646;
 }
 .masthead-full-name {
-font-family: 'Shadows Into Light', cursive;
+  font-family: 'Anton', sans-serif;
   text-transform: uppercase;
   font-size: 2.75rem;
 }
 .last-name-highlight {
-  color: #0f0f0f;
+  color: #f3a14b;
 }
 @media (max-width: 576px) {
   .masthead-full-name {
-font-family: 'Shadows Into Light', cursive;
+    font-family: 'Anton', sans-serif;
     text-transform: uppercase;
     font-size: 2rem;
   }
 }
 
 .bg-primary {
-  background-color: #20201f !important;
+  background-color: #eadfc9 !important;
 }
 
 .img-profile {
@@ -75,7 +75,7 @@ font-family: 'Shadows Into Light', cursive;
 }
 
 .subheading {
-font-family: 'Kanit', sans-serif;
+  font-family: 'Anton', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 1.2rem;
@@ -83,7 +83,7 @@ font-family: 'Kanit', sans-serif;
 
 .cv-titles {
   margin-bottom: 0.5rem;
-font-family: 'Shadows Into Light', cursive;
+  font-family: 'Anton', sans-serif;
   font-weight: 450;
   line-height: 1.2;
   color: #343a40;
@@ -94,7 +94,7 @@ font-family: 'Shadows Into Light', cursive;
 }
 
 .text-primary {
-  color: #141414 !important;
+  color: #f3a14b !important;
 }
 
 .text-dark {
@@ -188,7 +188,7 @@ font-family: 'Shadows Into Light', cursive;
 
 .btn-primary {
   color: #f8f9fa;
-  background-color: #2e2c2a;
+  background-color: #f3a14b;
   border-color: #f3a14b;
 }
 
@@ -326,7 +326,7 @@ font-family: 'Shadows Into Light', cursive;
   color: #dc7646;
   font-weight: 700;
   letter-spacing: 0.0625em;
-font-family: 'Shadows Into Light', cursive;
+  font-family: 'Anton', sans-serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
